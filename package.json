@@ -1,0 +1,23 @@
+{
+  "name": "rockwellendmodule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaishaliPatil1787/rockwellendmodule.git"
+  },
+  "author": "vaishali patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VaishaliPatil1787/rockwellendmodule/issues"
+  },
+  "homepage": "https://github.com/VaishaliPatil1787/rockwellendmodule#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
